@@ -2,4 +2,6 @@
     <string name="app_name">Layout Practice</string>
     <string name="message">Thanks for choosing our awesome blend tea.  Ho do you want it serving?</string>
     <string name="temperature">Temperature:</string>
+    <string name="hot">HOT</string>
+    <string name="cold">COLD</string>
 </resources>
